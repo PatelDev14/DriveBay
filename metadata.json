@@ -1,0 +1,5 @@
+{
+  "name": "ParkPulse - AI Parking Assistant & Marketplace",
+  "description": "An AI-powered chatbot to find parking spots from the web and a peer-to-peer marketplace for renting private driveways.",
+  "requestFramePermissions": []
+}
