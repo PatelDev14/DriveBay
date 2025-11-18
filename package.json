@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" :"https://pateldev14.github.io/DriveBay/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
